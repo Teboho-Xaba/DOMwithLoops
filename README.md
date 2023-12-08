@@ -1,2 +1,4 @@
 # DOMwithLoops
- 
+
+This is a Javascript project that began with learning basic for loop logic with the DOM and eventually turned into a template for a to-do list.
+I didn't realise that I understood this much Javascript, but this only encourages me to push myself even further with Javascript. I'll be redoing the calculator, rock, paper, scissors, triangle, FizzBuzz, ratings app, navigation pane and several javascript projects. With my current pace, I should be learning and doing projects with Async and Await by next week, then I'll be ready to jump onto React and push to Node by January 2024. Granted this is almost unrealistic but I've been putting it off and coasting for the better part of the year, no longer. I'll use the "Developed by Ed" Javascript series' projects for practice and the Telusko and Mosh channels for revision. I will be hired by March 2024.
